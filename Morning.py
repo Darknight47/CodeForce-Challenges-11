@@ -1,5 +1,7 @@
 """
 
+--------------------------- Link for the challenge: https://codeforces.com/problemset/problem/1883/A -----------------
+
 You are given a four-digit pin code consisting of digits from 0 to 9 that needs to be entered. Initially, the cursor points to the digit 1. 
 In one second, you can perform exactly one of the following two actions:
 
